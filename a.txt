@@ -1,5 +1,5 @@
 Some text for a.txt
 
 Modified from master;
-Changes from second;
+Changes from master;
 
